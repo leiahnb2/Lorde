@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "17ed1632-e313-494f-b5a3-43caa319c041": {
+      "label": "Lorde Interview: Newshub",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "Lorde interview: Does she want kids? What would she do if it wasn't music? | Newshub",
+      "duration": 1025
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Lorde Interview: Newshub",
+  "label": "Lorde Interview: Newshub",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tags + Annotations Done"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-07-13T22:57:12.454Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-07-13T22:57:12.454Z",
+  "updated_by": "leiahnb2"
+}

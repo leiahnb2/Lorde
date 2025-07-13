@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "cc7e84a3-bf63-48de-9ba2-933e5bd49eda": {
+      "label": "Lorde - Man of the Year (Music Video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "Lorde - Man Of The Year",
+      "duration": 195
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Lorde - Man of the Year (Music Video)",
+  "label": "Lorde - Man of the Year (Music Video)",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tags + Annotations Done"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-07-13T22:57:12.454Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-07-13T22:57:12.454Z",
+  "updated_by": "leiahnb2"
+}

@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "d63b6ece-585d-455b-928b-24f7ca19af11": {
+      "label": "Lorde - Royals (Music Video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "Lorde - Royals (US Version)",
+      "duration": 200
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Lorde - Royals (Music Video)",
+  "label": "Lorde - Royals (Music Video)",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tags + Annotations Done"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-07-13T22:57:12.454Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-07-13T22:57:12.454Z",
+  "updated_by": "leiahnb2"
+}
