@@ -2,7 +2,7 @@
   "audiovisual_files": {
     "55817874-8760-4f0f-af18-25448c19c9bf": {
       "label": "Session 76: Lorde | Therapuss with Jake Shane",
-      "is_offline": false,
+      "is_offline": true,
       "file_type": "Video",
       "file_url": "Session 76: Lorde | Therapuss with Jake Shane",
       "duration": 4809
@@ -23,6 +23,9 @@
   ],
   "created_at": "2025-07-13T22:57:12.454Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-07-13T22:57:12.454Z",
-  "updated_by": "leiahnb2"
+  "updated_at": "2025-07-13T23:01:01.605Z",
+  "updated_by": "leiahnb2",
+  "av_file_order": [
+    "55817874-8760-4f0f-af18-25448c19c9bf"
+  ]
 }
