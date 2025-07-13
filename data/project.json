@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "leiahnb2",
+    "is_private": false,
+    "title": "The Evolution of Lorde",
+    "description": "This project analyzes how Lorde has grown as an artist by analyzing recurring themes across her albums and how they unfold through her music videos, interviews, and performances. It explores the relationship between sound and image in her work, highlighting how she uses both to craft visually layered storytelling throughout the course of her career. The project also delves into Lorde's personal life, exploring how her experiences with self-discovery are reflected in the narrative of her music.",
+    "language": "en",
+    "slug": "Lorde",
+    "creator": "leiahnb2",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-07-13T22:21:19.244Z",
+    "updated_at": "2025-07-13T22:21:19.244Z"
   }
 }
