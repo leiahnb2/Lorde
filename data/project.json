@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "leiahnb2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186652770?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "leiahnb2",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-07-13T22:21:19.244Z",
-    "updated_at": "2025-07-13T22:21:19.244Z"
-  }
+    "updated_at": "2025-07-13T22:21:19.244Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "9fde47c9-9930-460b-be0c-4168332f38b5": {
+      "content": [],
+      "created_at": "2025-07-13T22:21:19.284Z",
+      "created_by": "leiahnb2",
+      "title": "The Evolution of Lorde",
+      "updated_at": "2025-07-13T22:21:19.284Z",
+      "updated_by": "leiahnb2",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "9fde47c9-9930-460b-be0c-4168332f38b5"
+  ]
 }
