@@ -1,5 +1,216 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lorde stands in front of a mirror in a dimly lit public bathroom with a blank and distant face. The setting and her lack of expression introduce the theme of self-reflection. This moment signals the emotional aftermath of a breakup and sets the video's introspective tone. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "4989416b-05fa-4ac1-a418-b214c19cd61c"
+    },
+    {
+      "start_time": 15,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She walks alone down a nearly empty street outside a club. The night setting and her isolation symbolize the first steps away from a shared life with a partner. The physical departure mirrors emotional detachment and a newfound independence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Symbolism"
+        }
+      ],
+      "uuid": "f9730fb2-0d5b-4df3-b2db-9424ff4e8d65"
+    },
+    {
+      "start_time": 35,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the backseat of a car, Lorde leans her head out the window as neon lights rush past. The shot conveys a mix of surrender and instability, suggesting a loss of control in Lorde's life after the breakup."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Mood"
+        }
+      ],
+      "uuid": "52f16c0b-e9de-4559-a7b2-1390969dbcf4"
+    },
+    {
+      "start_time": 51,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On a quiet street, Lorde breaks into spontaneous and chaotic dance. Her movements are unrehearsed and sporadic, a physical release of frustration and despair. The lack of choreography emphasizes emotional authenticity. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Symbolism"
+        }
+      ],
+      "uuid": "14f61b94-7709-42d6-8a95-e1fdec74b6af"
+    },
+    {
+      "start_time": 72,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She sings directly into the camera under flashing red streetlights. Her stare is intense, almost accusatory. The color red adds urgency and amplifies her inner rage and hurt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "b07eecc9-3e52-43f0-ba43-494ad8cddf38"
+    },
+    {
+      "start_time": 91,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lorde dances on top of a moving car, spotlighted in the night. It's a rebellious and defiant act, transforming public space into a stage for reclaiming her self-worth and agency."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Visual Allegory"
+        }
+      ],
+      "uuid": "ec61b218-c8d4-4555-9aea-b368d407aa95"
+    },
+    {
+      "start_time": 117,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She picks up a payphone receiver and lets it swing. The motion is careless and quiet, a gesture that represents Lorde cutting ties with her past or no longer waiting for answers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Symbolism"
+        }
+      ],
+      "uuid": "7a51a48c-eb3d-4ef7-b0d5-2a8d0942c566"
+    },
+    {
+      "start_time": 139,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She dances in a dark club with glowing green lights. The color shift signals renewal. and the moment suggests emotional permission to move forward."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Metaphor"
+        }
+      ],
+      "uuid": "e48d30c8-2011-4eec-becd-098df98f5f78"
+    },
+    {
+      "start_time": 163,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her spinning becomes more frantic in the middle of an empty street. Her wild, unhinged energy evokes emotional exhaustion and desperation to be free of her inner struggles. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Symbolism"
+        }
+      ],
+      "uuid": "9c69f1eb-11a2-4b32-a2f0-75401650ccab"
+    },
+    {
+      "start_time": 183,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the final shot, she walks slowly toward the camera and her movements are more composed. The green tint remains, but her demeanor is grounded. She seems more emotionally stable after processing the chaos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Mood"
+        }
+      ],
+      "uuid": "8385430c-d3e7-49b1-b84b-19d9bdad02a0"
+    }
+  ],
   "set": "Default",
   "event_id": "e86a6e5d-51b0-4a9b-bb6c-d24f4e60521e",
   "source_id": "ad34f849-9216-4e55-99fa-f2c6614b271b"
