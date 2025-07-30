@@ -1,5 +1,199 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lorde lies on a beach blanket in a yellow two-piece and sunglasses, surrounded by people relaxing in the sun. The peaceful setting introduces a calm, carefree tone and places her at the center of the scene."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "13ca3967-7364-4472-9173-362e0c396c60"
+    },
+    {
+      "start_time": 18,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She rises and walks through a wooden arch toward others dancing in muted tones. Her bright outfit and central movement signal her role as a guiding presence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Visual Allegory"
+        }
+      ],
+      "uuid": "e8dc9ab9-d83c-4a87-972f-5aecaadcd5e6"
+    },
+    {
+      "start_time": 35,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laughing and skipping across sand with friends in slow motion, Lorde embodies an effortless joy. The motion and laughter symbolize an escape from fame and societal pressures. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Symbolism"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Mood"
+        }
+      ],
+      "uuid": "cc0749ba-fce3-4180-9712-fec765618c6a"
+    },
+    {
+      "start_time": 57,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fingers brush grass, bodies recline in sun, and the wind ripples fabric. These tactical images show a focus on nature and being present in the moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Imagery"
+        }
+      ],
+      "uuid": "cb886d1c-383b-4487-ace4-77b0dacc90ee"
+    },
+    {
+      "start_time": 75,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She stands at a table where a golden horn is offered. She declines and moves on. The refusal conveys her autonomy as an artist and her rejection of performative rituals."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Metaphor"
+        }
+      ],
+      "uuid": "ff8bb3a5-eed5-4fff-878f-bc28bc047da2"
+    },
+    {
+      "start_time": 117,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A group follows a makeshift wooden raft Lorde boards, where she dances on top while others gently push. The raft becomes a platform for celebration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Symbolism"
+        }
+      ],
+      "uuid": "d689d1b3-bc15-475e-a2f8-ee432a07f8cd"
+    },
+    {
+      "start_time": 144,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera shows Lorde passing a small pile of trash, briefly acknowledging it before resuming dancing. The moment represents environmental awareness despite personal pleasure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Juxtaposition"
+        }
+      ],
+      "uuid": "9941e54b-b130-4638-b125-c6269ab8fbe9"
+    },
+    {
+      "start_time": 165,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lorde dances with the group in the sunlight. She becomes in control as she takes in the sun, ushering in the warmth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Tone"
+        }
+      ],
+      "uuid": "9b7d0957-66e7-447d-9f4a-3a76a092e33e"
+    },
+    {
+      "start_time": 189,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lorde is carried away on a chair under an umbrella, with others walking behind her. The final image shows her leaving peacefully and still in charge."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Literary Device",
+          "tag": "Visual Allegory"
+        }
+      ],
+      "uuid": "5aee7b15-e0f7-44f3-835d-8170c3a68d51"
+    }
+  ],
   "set": "Default",
   "event_id": "df612147-ae9c-46e1-a7d7-9667889c9d55",
   "source_id": "cd886ab9-08cc-4980-875a-10064dc60ddb"
