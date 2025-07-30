@@ -4,18 +4,101 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\nThis project contains audio and video materials related to the evolution of Lorde as an artist and individual.  It explores how she uses sound and visuals to express recurring themes across her discography, as well as how elements of her personal life shape her artistic narrative."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Since the release of her debut album, Pure Heroine, in 2013, Lorde has established a distinctive presence in contemporary pop music through her lyrical storytelling, minimalist production style, and carefully crafted visuals. This project examines her development as both an artist and a person by analyzing key themes across her discography and exploring how they are communicated through music videos, live performances, and interviews. The project aims to trace Lorde’s artistic and personal evolution by highlighting her lived experiences, such as growing up in the public eye, navigating personal transitions, and exploring different creative directions, which are reflected in her work. Particular analysis is given to how she blends audio and visual elements to construct cohesive and introspective narratives throughout her career. The annotated events include selected interviews, performances, and official music videos from various stages of Lorde’s career. These materials are used to identify recurring patterns and shifts in tone, style, and focus. Annotations are organized around categories such as Structure, Context, Impact, and Literary devices to support the analysis and comparisons. Lorde’s evolution is the central focus of the project. From the detached teenage experiences of Pure Heroine to the emotional vulnerability of Melodrama and the reflective tones of Solar Power and Virgin, the project delves into how her approach to music and self-representation has changed over time. By examining these changes alongside her public commentary, the project highlights how her artistic identity has developed in parallel with her personal experiences."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iowapublicradio.org%2Fstudioone%2Fnews%2F2025-06-27%2Florde-virgin-review-what-was-that&psig=AOvVaw2FHllHFvnroK7d8rOgWigs&ust=1753977509151000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCOjUl8j55I4DFQAAAAAdAAAAABAE",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
         }
       ]
     }
   ],
   "created_at": "2025-07-13T22:21:19.284Z",
   "created_by": "leiahnb2",
-  "title": "The Evolution of Lorde",
-  "updated_at": "2025-07-30T15:55:22.461Z",
+  "title": "The Evolution of Lorde - Project Introduction",
+  "updated_at": "2025-07-30T15:58:56.430Z",
   "updated_by": "leiahnb2",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "the-evolution-of-lorde-project-introduction"
 }
