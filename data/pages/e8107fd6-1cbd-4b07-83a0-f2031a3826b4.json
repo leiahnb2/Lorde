@@ -1,0 +1,114 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "0e427a6d-567b-46bf-a1ea-23a05683ab1c"
+      },
+      "event2": {
+        "uuid": "4864e71a-b0e9-4ca2-8d5e-851814d56b6d"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Documentation:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The page was manually generated to compare two interview events: Lorde on "
+        },
+        {
+          "text": "Newshub",
+          "italic": true
+        },
+        {
+          "text": " with Ryan Bridge (2017) and Lorde on "
+        },
+        {
+          "text": "Therapuss with Jake Shane",
+          "italic": true
+        },
+        {
+          "text": " (2025). The two can be compared based on how they reflect Lorde’s personal growth, particularly in how she speaks about identity, emotional healing, and self-understanding throughout the course of her career. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following comparison of Lorde’s interviews will highlight key themes of personal growth, identity, and emotional vulnerability throughout the years. This will include annotations of differences and similarities in how she speaks about herself, her creative process, and her evolving sense of self between the formal interview with Bridge and the more reflective, casual conversation with Jake Shane."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Personal Growth in Interviews",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "personal-growth-in-interviews",
+  "created_at": "2025-07-30T19:50:45.671Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-07-30T19:50:45.671Z",
+  "updated_by": "leiahnb2"
+}
