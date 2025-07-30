@@ -1,1 +1,153 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"leiahnb2","avatar_url":"https://avatars.githubusercontent.com/u/186652770?v=4","admin":true}],"project":{"github_org":"leiahnb2","is_private":false,"title":"The Evolution of Lorde","description":"This project analyzes how Lorde has grown as an artist by analyzing recurring themes across her albums and how they unfold through her music videos, interviews, and performances. It explores the relationship between sound and image in her work, highlighting how she uses both to craft visually layered storytelling throughout the course of her career. The project also delves into Lorde's personal life, exploring how her experiences with self-discovery are reflected in the narrative of her music.","language":"en","slug":"Lorde","creator":"leiahnb2","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"},{"color":"#ADFFD9","category":"Literary Device"},{"color":"#88C9F2","category":"Structure"},{"color":"#F2A7C3","category":"Context"},{"color":"#F7ED78","category":"Impact"}],"tags":[{"category":"Structure","tag":"Introduction"},{"category":"Literary Device","tag":"Tone"},{"category":"Literary Device","tag":"Metaphor"},{"category":"Literary Device","tag":"Imagery"},{"category":"Literary Device","tag":"Symbolism"},{"category":"Literary Device","tag":"Visual Allegory"},{"category":"Literary Device","tag":"Juxtaposition"},{"category":"Literary Device","tag":"Irony"},{"category":"Literary Device","tag":"Mood"},{"category":"Structure","tag":"Conclusion"},{"category":"Context","tag":"Album Production"},{"category":"Context","tag":"Mental Health"},{"category":"Context","tag":"Personal Life"},{"category":"Structure","tag":"Advice"},{"category":"Impact","tag":"Performances"},{"category":"Context","tag":"Artistic Growth"},{"category":"Context","tag":"Gender Stereotypes"},{"category":"Context","tag":"Beauty Standards"},{"category":"Structure","tag":"Media Commentary"}]},"created_at":"2025-07-13T22:21:19.244Z","updated_at":"2025-07-13T23:12:43.699Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"9fde47c9-9930-460b-be0c-4168332f38b5":{"content":[],"created_at":"2025-07-13T22:21:19.284Z","created_by":"leiahnb2","title":"The Evolution of Lorde","updated_at":"2025-07-13T22:21:19.284Z","updated_by":"leiahnb2","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["9fde47c9-9930-460b-be0c-4168332f38b5"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "leiahnb2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186652770?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "leiahnb2",
+    "is_private": false,
+    "title": "The Evolution of Lorde",
+    "description": "This project analyzes how Lorde has grown as an artist by analyzing recurring themes across her albums and how they unfold through her music videos, interviews, and performances. It explores the relationship between sound and image in her work, highlighting how she uses both to craft visually layered storytelling throughout the course of her career. The project also delves into Lorde's personal life, exploring how her experiences with self-discovery are reflected in the narrative of her music.",
+    "language": "en",
+    "slug": "Lorde",
+    "creator": "leiahnb2",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        },
+        {
+          "color": "#ADFFD9",
+          "category": "Literary Device"
+        },
+        {
+          "color": "#88C9F2",
+          "category": "Structure"
+        },
+        {
+          "color": "#F2A7C3",
+          "category": "Context"
+        },
+        {
+          "color": "#F7ED78",
+          "category": "Impact"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Structure",
+          "tag": "Introduction"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Tone"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Metaphor"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Imagery"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Symbolism"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Visual Allegory"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Juxtaposition"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Irony"
+        },
+        {
+          "category": "Literary Device",
+          "tag": "Mood"
+        },
+        {
+          "category": "Structure",
+          "tag": "Conclusion"
+        },
+        {
+          "category": "Context",
+          "tag": "Album Production"
+        },
+        {
+          "category": "Context",
+          "tag": "Mental Health"
+        },
+        {
+          "category": "Context",
+          "tag": "Personal Life"
+        },
+        {
+          "category": "Structure",
+          "tag": "Advice"
+        },
+        {
+          "category": "Impact",
+          "tag": "Performances"
+        },
+        {
+          "category": "Context",
+          "tag": "Artistic Growth"
+        },
+        {
+          "category": "Context",
+          "tag": "Gender Stereotypes"
+        },
+        {
+          "category": "Context",
+          "tag": "Beauty Standards"
+        },
+        {
+          "category": "Structure",
+          "tag": "Media Commentary"
+        }
+      ]
+    },
+    "created_at": "2025-07-13T22:21:19.244Z",
+    "updated_at": "2025-07-30T15:55:22.772Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "9fde47c9-9930-460b-be0c-4168332f38b5": {
+      "content": [],
+      "created_at": "2025-07-13T22:21:19.284Z",
+      "created_by": "leiahnb2",
+      "title": "The Evolution of Lorde",
+      "updated_at": "2025-07-13T22:21:19.284Z",
+      "updated_by": "leiahnb2",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "9fde47c9-9930-460b-be0c-4168332f38b5"
+  ]
+}
