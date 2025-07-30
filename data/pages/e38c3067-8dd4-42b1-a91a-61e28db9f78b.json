@@ -44,7 +44,32 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n\n"
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "C:\\Users\\leiah\\Downloads\\Untitled design.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -58,6 +83,6 @@
   "slug": "lorde-a-career-overview",
   "created_at": "2025-07-30T16:18:56.304Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-07-30T16:18:56.304Z",
+  "updated_at": "2025-07-30T16:24:10.307Z",
   "updated_by": "leiahnb2"
 }
