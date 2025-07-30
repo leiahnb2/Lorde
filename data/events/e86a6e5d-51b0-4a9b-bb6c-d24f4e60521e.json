@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "ad34f849-9216-4e55-99fa-f2c6614b271b": {
+      "label": "Lorde - Green Light (Music Video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "Lorde - Green Light",
+      "duration": 243
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Lorde - Green Light (Music Video)",
+  "created_at": "2025-07-30T18:45:06.549Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-07-30T18:45:06.549Z",
+  "updated_by": "leiahnb2"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "cd886ab9-08cc-4980-875a-10064dc60ddb": {
+      "label": "Lorde - Solar Power (Music Video)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "Lorde - Solar Power",
+      "duration": 201
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Lorde - Solar Power (Music Video)",
+  "created_at": "2025-07-30T18:45:06.549Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-07-30T18:45:06.549Z",
+  "updated_by": "leiahnb2"
+}
