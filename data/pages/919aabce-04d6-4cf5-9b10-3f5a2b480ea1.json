@@ -1,0 +1,128 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "d3a8f310-658d-40ca-bb61-fd63fbbcd5d9"
+      },
+      "event2": {
+        "uuid": "bc27347d-0f4d-48e6-9a94-0dcb77688768"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Documentation:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The page was manually generated to compare two music video events: Lorde’s "
+        },
+        {
+          "text": "Royals",
+          "italic": true
+        },
+        {
+          "text": " (2013) and "
+        },
+        {
+          "text": "Man of the Year",
+          "italic": true
+        },
+        {
+          "text": " (2024). \nThese videos feature Lorde at two very different stages in her career, offering a clear analysis of style, tone, and artistic perspective.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following comparison of Lorde’s "
+        },
+        {
+          "text": "Royals",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "Man of the Year",
+          "italic": true
+        },
+        {
+          "text": " will explore how her visual and artistic style has changed over more than a decade. This includes annotations of key shifts and continuities in themes and use of literary devices, highlighting how Lorde’s perspective on fame, identity, and self-expression has evolved since her first video."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Artistic Growth in Music Videos",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "artistic-growth-in-music-videos",
+  "created_at": "2025-07-30T19:12:21.520Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-07-30T19:12:21.520Z",
+  "updated_by": "leiahnb2"
+}
