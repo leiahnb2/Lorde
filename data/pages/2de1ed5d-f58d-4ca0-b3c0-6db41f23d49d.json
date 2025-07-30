@@ -4,11 +4,12 @@
   "created_by": "leiahnb2",
   "title": "Lorde - Green Light (Music Video)",
   "slug": "lorde-green-light-music-video",
-  "updated_at": "2025-07-30T18:45:07.076Z",
+  "updated_at": "2025-07-30T18:53:14.701Z",
   "updated_by": "leiahnb2",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "e86a6e5d-51b0-4a9b-bb6c-d24f4e60521e"
-  }
+  },
+  "parent": "e38c3067-8dd4-42b1-a91a-61e28db9f78b"
 }
