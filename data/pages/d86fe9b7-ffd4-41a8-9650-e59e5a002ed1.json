@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Comparison Clips",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "comparison-clips",
+  "created_at": "2025-07-30T19:12:53.155Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-07-30T19:12:53.155Z",
+  "updated_by": "leiahnb2"
+}
