@@ -1,6 +1,24 @@
 {
   "content": [
     {
+      "type": "image",
+      "url": "https://www.nme.com/wp-content/uploads/2025/04/Lorde-Credit-Thistle-Brown-1-696x442.jpg",
+      "caption": "(NME)",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -102,7 +120,7 @@
   "created_at": "2025-07-13T22:21:19.284Z",
   "created_by": "leiahnb2",
   "title": "The Evolution of Lorde - Project Introduction",
-  "updated_at": "2025-07-30T19:54:52.363Z",
+  "updated_at": "2025-08-04T14:48:05.901Z",
   "updated_by": "leiahnb2",
   "autogenerate": {
     "enabled": false,
