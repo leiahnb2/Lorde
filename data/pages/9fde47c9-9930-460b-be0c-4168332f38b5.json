@@ -4,15 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Evolution of Lorde",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "textSize": "heading-one",
           "text": ""
         }
@@ -33,6 +24,23 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Evolution of Lorde",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -102,86 +110,6 @@
       ]
     },
     {
-      "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Lorde_-_Melodrama.png/250px-Lorde_-_Melodrama.png",
-      "caption": "(Wikipedia)",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "scale": 20,
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-      "caption": "(Spotify)",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "scale": 20,
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://i.scdn.co/image/ab67616d00001e0236615a0a60523dd62135ab3a",
-      "caption": "(Spotify)",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "scale": 20,
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://i.scdn.co/image/ab67616d0000b27323d41bf736920a032e222a78",
-      "caption": "(Spotify)",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "scale": 21,
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -201,7 +129,7 @@
   "created_at": "2025-07-13T22:21:19.284Z",
   "created_by": "leiahnb2",
   "title": "The Evolution of Lorde - Project Introduction",
-  "updated_at": "2025-08-11T13:38:14.254Z",
+  "updated_at": "2025-08-11T13:53:26.984Z",
   "updated_by": "leiahnb2",
   "autogenerate": {
     "enabled": false,
