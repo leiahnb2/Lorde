@@ -1,0 +1,114 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Documentation: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The page was manually generated to compare clips from two music video events: Lorde’s "
+        },
+        {
+          "text": "Green Light ",
+          "italic": true
+        },
+        {
+          "text": "(2017) and "
+        },
+        {
+          "text": "Man of the Year",
+          "italic": true
+        },
+        {
+          "text": " (2025). \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Narrative:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following clips can be compared based on Lorde’s physical expressiveness and how her body language functions as a visual representation of the song’s emotional arc. In both videos, her movements are unfiltered and restless to showcase the emotional weight of her experiences.\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "e86a6e5d-51b0-4a9b-bb6c-d24f4e60521e",
+        "start": 163,
+        "end": 182,
+        "file": "ad34f849-9216-4e55-99fa-f2c6614b271b",
+        "type": "Video"
+      },
+      "event2": {
+        "uuid": "bc27347d-0f4d-48e6-9a94-0dcb77688768",
+        "start": 156,
+        "end": 168,
+        "file": "cc7e84a3-bf63-48de-9ba2-933e5bd49eda",
+        "type": "Video"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Body Movement Analysis",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "body-movement-analysis",
+  "created_at": "2025-08-11T13:51:27.536Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2025-08-11T13:51:27.536Z",
+  "updated_by": "leiahnb2"
+}
