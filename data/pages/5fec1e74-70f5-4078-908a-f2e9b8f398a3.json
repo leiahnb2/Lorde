@@ -101,14 +101,14 @@
       ]
     }
   ],
-  "title": "Body Movement Analysis",
+  "title": "Use of Body Movement",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "body-movement-analysis",
+  "slug": "use-of-body-movement",
   "created_at": "2025-08-11T13:51:27.536Z",
   "created_by": "leiahnb2",
-  "updated_at": "2025-08-11T13:51:27.536Z",
+  "updated_at": "2025-08-11T13:51:47.806Z",
   "updated_by": "leiahnb2"
 }
